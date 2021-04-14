@@ -8,7 +8,7 @@ function verificar(){
        
        }else{
        
-       menu="https://geraldrf.github.io/Ecommerce_EMRA-Store/recursos/A_HTML/menuPC.html"
+       menu="https://geraldrf.github.io/Ecommerce_EMRA-Store/recursos/A_HTML/menuPC.html";
       
        } 
        
