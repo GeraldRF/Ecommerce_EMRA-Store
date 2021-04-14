@@ -2,7 +2,7 @@ function redirec(cual){
     var url="";
   
   if(cual=="sesion"){
-      url="https://grfixurdivice.000webhostapp.com/recursos/A_PHP/LogIn.php";
+      url="https://github.com/GeraldRF/Ecommerce_EMRA-Store/tree/gh-pages/recursos/php/LogIn.php";
   } else if(cual=="inicio"){
      url="https://grfixurdivice.000webhostapp.com";
   
