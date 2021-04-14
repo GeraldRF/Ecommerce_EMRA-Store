@@ -1,5 +1,5 @@
   var xhr = new XMLHttpRequest();
-        xhr.open('POST', 'https://github.com/GeraldRF/Ecommerce_EMRA-Store/tree/gh-pages/recursos/html/menu.html');
+        xhr.open('POST', 'https://github.com/GeraldRF/Ecommerce_EMRA-Store/tree/gh-pages/recursos/html/menuDispositivosW_500.html');
         xhr.setRequestHeader('Content-Type', 'text/plain');
         xhr.send();
         xhr.onload = function (data) {
