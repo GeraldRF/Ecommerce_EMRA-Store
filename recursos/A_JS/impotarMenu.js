@@ -1,5 +1,5 @@
   var xhr = new XMLHttpRequest();
-        xhr.open('POST', 'https://grfixurdivice.000webhostapp.com/recursos/A_HTML/menu.html');
+        xhr.open('POST', 'https://geraldrf.github.io/Ecommerce_EMRA-Store/recursos/A_HTML/menu.html');
         xhr.setRequestHeader('Content-Type', 'text/plain');
         xhr.send();
         xhr.onload = function (data) {
