@@ -1,7 +1,7 @@
  <html>
     
  <head>
-     <link rel="stylesheet" href="https://grfixurdivice.000webhostapp.com/recursos/A_CSS/LogIn.css">
+     <link rel="stylesheet" href="https://geraldrf.github.io/Ecommerce_EMRA-Store/recursos/A_CSS/LogIn.css">
      <title>Ingresar a cuenta</title>
      
      
@@ -14,11 +14,11 @@
        ?>
        
        <div align="center">
-           <div class="PanelArr"><a href="https://grfixurdivice.000webhostapp.com/" style="margin:0 380px 5px 0;"> <img src="https://grfixurdivice.000webhostapp.com/recursos/Img_GUI/flecha2.ico" width=70px height=70px></a></div>
+           <div class="PanelArr"><a href="https://geraldrf.github.io/Ecommerce_EMRA-Store/" style="margin:0 380px 5px 0;"> <img src="https://geraldrf.github.io/Ecommerce_EMRA-Store/recursos/Img_GUI/flecha2.ico" width=70px height=70px></a></div>
   
     <div class="PanelAbj" align="center"> 
   <br>
-  <div style="margin-top:10px; padding-top:10px; min-width=150px min-height=150px"><img src="https://grfixurdivice.000webhostapp.com/recursos/Img_GUI/persona.ico"></div>
+  <div style="margin-top:10px; padding-top:10px; min-width=150px min-height=150px"><img src="https://geraldrf.github.io/Ecommerce_EMRA-Store/recursos/Img_GUI/persona.ico"></div>
      
     <br><div><input id="user" class="txtfield" type="text" placeholder="Numero telefonico" onkeyup="verificar()"></div> 
     <div id="resultado" class="msgErr"></div>
