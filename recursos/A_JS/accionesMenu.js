@@ -2,12 +2,12 @@ function redirec(cual){
     var url="";
   
   if(cual=="sesion"){
-      url="https://grfixurdivice.000webhostapp.com/recursos/A_PHP/LogIn.php";
+      url="https://geraldrf.github.io/Ecommerce_EMRA-Store/recursos/A_PHP/LogIn.php";
   } else if(cual=="inicio"){
-     url="https://grfixurdivice.000webhostapp.com";
+     url="https://geraldrf.github.io/Ecommerce_EMRA-Store/";
   
     }else if(cual=="nuevo"){
-      url="https://grfixurdivice.000webhostapp.com/recursos/A_HTML/Registrarse.html";
+      url="https://geraldrf.github.io/Ecommerce_EMRA-Store/recursos/A_HTML/Registrarse.html";
    
     }else if(cual=="destacado"){
         url="";
