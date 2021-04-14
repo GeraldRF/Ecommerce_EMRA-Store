@@ -12,7 +12,7 @@ function verificar(){
       
        } 
        
-       xhr.open('POST', menu);
+       xhr.open(menu);
         xhr.setRequestHeader('Content-Type', 'text/plain');
         xhr.send();
         xhr.onload = function (data) {
